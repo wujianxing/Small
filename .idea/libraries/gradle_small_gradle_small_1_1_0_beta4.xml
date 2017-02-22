@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-small.gradle-small-1.1.0-beta4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/buildSrc/build/libs/gradle-small-1.1.0-beta4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

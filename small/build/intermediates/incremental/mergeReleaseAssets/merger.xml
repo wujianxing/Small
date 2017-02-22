@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mark/Desktop/Small-master/Android/DevSample/small/src/main/assets"/><source path="/Users/mark/Desktop/Small-master/Android/DevSample/small/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/mark/Desktop/Small-master/Android/DevSample/small/src/release/assets"/></dataSet></merger>
